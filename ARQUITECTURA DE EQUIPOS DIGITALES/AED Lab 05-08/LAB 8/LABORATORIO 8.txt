@@ -1,0 +1,14 @@
+LABORATORIO 08 | NIVEL: INTERMEDIO
+SPI en Acción: Comunicación con Pantalla TFT ILI9341
+
+OBJETIVO
+Implementar comunicación SPI entre un microcontrolador y una pantalla TFT de 2.4
+pulgadas, dibujando formas geométricas, texto y datos de sensores en tiempo real para
+comprender el protocolo SPI en una aplicación real. 
+
+MATERIALES Y HERRAMIENTAS
+• ESP32 DevKit o Arduino UNO/Mega (ESP32 recomendado por mayor velocidad SPI)
+• Pantalla TFT 2.4 pulgadas ILI9341 (240x320) con interfaz SPI
+• Jumpers macho-hembra (8 piezas mínimo)
+• Sensor BMP280 o DHT22 (para mostrar datos en pantalla)
+• Arduino IDE 2.x con bibliotecas: Adafruit ILI9341, Adafruit GFX instaladas
