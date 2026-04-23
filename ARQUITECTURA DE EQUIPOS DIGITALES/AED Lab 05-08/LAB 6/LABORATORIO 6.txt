@@ -1,0 +1,16 @@
+LABORATORIO 06 | NIVEL: INTERMEDIO
+Sensor I2C: Lectura de Temperatura y Humedad con
+BMP280 / DHT 
+
+OBJETIVO
+Establecer comunicación I2C entre un microcontrolador y un sensor ambiental, escanear el
+bus I2C para detectar dispositivos, leer mediciones periódicas y mostrarlas formateadas por
+UART. 
+
+MATERIALES Y HERRAMIENTAS
+• Arduino UNO/Nano o ESP32 DevKit
+• Sensor BMP280 (o BMP180, BME280) con breakout board que incluye pull-ups
+• Alternativamente: sensor DHT22 con resistencia pull-up 10 kohm
+• Resistencias pull-up 4.7 kohm x2 (si el modulo del sensor no las incluye)
+• Protoboard y jumpers macho-macho y macho-hembra
+• Arduino IDE 2.x con biblioteca 'Adafruit BMP280 Library' instalada 
