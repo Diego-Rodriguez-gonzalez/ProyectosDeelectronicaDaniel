@@ -1,0 +1,10 @@
+LABORATORIO 04 | NIVEL: BASICO
+Exploración de la Arquitectura Interna del ATmega328P
+
+MATERIALES Y HERRAMIENTAS
+• Arduino UNO o Nano (ATmega328P)
+• Cable USB tipo A-B (para UNO) o A-miniB (para Nano)
+• Arduino IDE 2.x instalado (arduino.cc/en/software)
+• Datasheet ATmega328P descargado de microchip.com
+• LED externo y resistencia 220 ohm (para el paso avanzado)
+• Protoboard y jumpers
