@@ -1,0 +1,12 @@
+LABORATORIO 05 | NIVEL: BASICO
+Comunicación Serial UART: Interfaz entre MCU y PC
+
+Establecer comunicación bidireccional UART entre un microcontrolador y una PC, enviando
+datos estructurados y procesando comandos recibidos desde el monitor serial.
+
+MATERIALES Y HERRAMIENTAS
+• Arduino UNO/Nano o ESP32 DevKit
+• Cable USB
+• Arduino IDE 2.x instalado
+• Monitor serial integrado en Arduino IDE (Ctrl+Shift+M)
+• Opcional: PuTTY o Termite para comunicación serial avanzada
