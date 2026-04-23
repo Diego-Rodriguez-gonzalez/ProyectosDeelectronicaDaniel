@@ -1,0 +1,16 @@
+LABORATORIO 07 | NIVEL: INTERMEDIO
+PWM y Control Analógico: Dimmer de LED y Control de
+Servo 
+
+OBJETIVO
+Generar señales PWM con un microcontrolador para controlar el brillo de un LED y la
+posición de un servomotor, comprendiendo la relación entre el ciclo de trabajo y el efecto
+físico resultante. 
+
+MATERIALES Y HERRAMIENTAS
+• Arduino UNO, Nano o ESP32 (cualquier plataforma con PWM)
+• LED de cualquier color + resistencia 220 ohm
+• Servomotor SG90 o MG90S (servo de 9g, muy económico)
+• Potenciómetro de 10 kohm (para control manual del servo)
+• Protoboard y jumpers
+• Multímetro (opcional, para medir el voltaje promedio del PWM) 
